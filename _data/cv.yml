@@ -1,8 +1,8 @@
-- title: General Information
+- title: 
   type: map
   contents:
-    - name: 
-      value: Amy Rae Fox, PhD
+    - name: Amy Rae Fox, PhD
+      value: 
     - name: Languages
       value: English, French (B1)
 - title: Research Interests
@@ -16,6 +16,31 @@
       value: semiotics, philosophy of information, science communication
     - name: PEDAGOGY
       value: broadening participation in visualization, course-based undergradate research experiences, teaching research methods, introductory statistics
+- title: Fellowships & Scholarships
+  type: time_table
+  contents:
+    - year: 2022
+      items:
+        - MIT School of Engineering Postdoctoral Fellowship for Engineering Excellence
+        - MIT Computer Science & Artificial Intelligence Laboratory METEOR Fellow
+    - year: 2016
+      items:
+        - National Defense Science and Engineering Doctoral Fellowship
+    - year: 2016
+      items:
+        - DHS-STEM Department of Homeland Security STEM Fellowship
+    - year: 2013 
+      items: 
+        - ATLANTIS-ERASMUS (US Department of Education) Scholar Grant
+    - year: 2013 
+      items: 
+        - CSU-CHICO Out-of-State Tuition Remission Award
+    - year: 2000
+      items: 
+        - John Motley Morehead Scholarship, University of North Carolina at Chapel Hill 
+
+
+
 - title: Education
   type: time_table
   contents:
@@ -59,6 +84,90 @@
     - title: MA Student Researcher
       institution: Universität Koblenz-Landau
       year: 2014  
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Project Manager, UX Designer
+      institution: SciMed Solutions | Durham, NC
+      year: 2012 - 2013
+      description:
+        - project management, business process analysis, information design, UX for scientific computing software 
+    - title: Technologist, Designer, Developer
+      institution: DUKE Talent Identification Program (TIP) | Durham, NC
+      year: 2011 - 2012
+      description:
+        - business process analysis, UX design, full stack web development
+    - title: Technologist, Program Coordinator
+      institution: Robertson Scholars Leadership Program (Duke—UNC)
+      year: 2009 - 2011
+      description:
+        - scholar advising, program development, technology consulting, recruiting & admissions
+    - title: Management & Technology Consultant
+      institution: International Business Machines (IBM) | worldwide
+      year: 2004 - 2009
+      description: 
+        - enterprise integration consulting, business process design, project management
+    - title: Information Architect (Intern)
+      institution: GlaxoSmithKline Biologicals | Rixensart, Belgium
+      year: summer 2002
+      description: 
+        - information architecture, business process analysis
+    - title: Residential Computing Consultant
+      institution: University of North Carolina at Chapel Hill | Chapel Hill, NC
+      year: 2002 - 2004
+      description: 
+        - design & facilitation of (residential) personal computing workshops
+    - title: Summer School Instructor (Gr. 6-9 Math, CS) (Intern)
+      institution: LearningBridge Norfolk | Norfolk,VA
+      year: summer 2001 
+      description: 
+        - course design & facilitation for 8-week summer session serving underprivileged youth
+    - title: Stage Manager / Lighting Designer (Intern)
+      institution: American Dance Festival (ADF) | Durham, NC
+      year: summer 2002, 2004 
+      description: 
+        - lighting design, audio engineering and stage management
+    - title: Production Supervisor (technical theatre)
+      institution: Carolina Union Production Services | Chapel Hill, NC
+      year: 2001 - 2004
+      description: 
+        - supervision & facilitation of lighting, audio engineering, stage management for touring productions
+- title: Reviewing Service
+  type: nested_list
+  contents:
+    - title: 
+      items:
+        - (VIS, TVCG) IEEE VIS, IEEE Transactions on Visualization and Computer Graphics
+        - (CHI/NORDICHI) ACM Conference on Human Factors in Computing Systems, NordiCHI
+        - (CSCW) ACM Conference on Computer-Supported Cooperative Work
+        - (UIST) ACM Symposium on User Interface Software and Technology
+        - (COGS) Annual Meeting of the Cognitive Science Society
+        - (DIAGRAMS) International Conference on the Theory and Application of Diagrams
+        - (ICLS) International Society of Learning Science — Conference of the Learning Sciences
+- title: Professional Affiliations
+  type: nested_list
+  contents:
+    - title: Computing Research
+      items:
+        - (VIS) IEEE Visualization and Graphics Technical Community
+        - (CHI) ACM SIG Human-Computer Interaction
+        - (ASIS&T) Association for Information Science & Technology
+    - title: Cognitive Research
+      items:
+        - (CSS) Cognitive Science Society
+        - (PS) Psychonomics Society
+        - (APS) Association for Psychological Science
+    - title: Education Research
+      items:
+        - (ISLS) International Society of the Learning Sciences
+        - (EARLI-SIG2) European Association of Research on Learning & Instruction (Comprehension of Text & Graphics)
+        - (APA Div 2) Society for the Teaching of Psychology
+        - (CSE) ACM SIG Computer Science Education
+    - title: Professional Communities of Practice
+      items:
+        - (DVS) Data Visualization Society
+        - (IAS) Information Architecture Institute
+
 
 # - title: Open Source Projects
 #   type: time_table
