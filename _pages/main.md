@@ -1,5 +1,5 @@
 ---
-layout: about-custom
+layout: main
 title: about
 permalink: /
 subtitle:  Cognitive Science · Research  | Design 
