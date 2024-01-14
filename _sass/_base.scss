@@ -274,8 +274,8 @@ blockquote {
   .navbar-brand {
     color: var(--global-text-color);
     font-variant: all-small-caps;
-    font-size: xx-large;
-    font-weight: 200;
+    font-size: x-large;
+    font-weight: 300;
     
     
 
@@ -284,7 +284,7 @@ blockquote {
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
     font-variant: small-caps;
-    font-size:x-large;
+    font-size: larger;
     font-weight: 200;
 
     &:hover {
@@ -547,7 +547,9 @@ footer.sticky-bottom {
 
 .site-title{
   font-variant: normal;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight:200;
+  font-family: Lato, Helvetica, arial, sans-serif;
+  // font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .post-list {
