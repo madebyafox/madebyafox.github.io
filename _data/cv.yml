@@ -16,6 +16,21 @@
       value: semiotics, philosophy of information, science communication
     - name: PEDAGOGY
       value: broadening participation in visualization, course-based undergradate research experiences, teaching research methods, introductory statistics
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD — Cognitive Science
+      institution: University of California San Diego
+      year: 2022
+    - title: MA — Cognitive Visualization
+      institution: California State University, Chico
+      year: 2015
+    - title: MSEd — Instructional Design
+      institution: Université Pierre Mendès-France
+      year: 2015  
+    - title: BSc — Computer Science
+      institution: University of North Carolina at Chapel Hill
+      year: 2004  
 - title: Fellowships & Scholarships
   type: time_table
   contents:
@@ -38,24 +53,6 @@
     - year: 2000
       items: 
         - John Motley Morehead Scholarship, University of North Carolina at Chapel Hill 
-
-
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD — Cognitive Science
-      institution: University of California San Diego
-      year: 2022
-    - title: MA — Cognitive Visualization
-      institution: California State University, Chico
-      year: 2015
-    - title: MSEd — Instructional Design
-      institution: Université Pierre Mendès-France
-      year: 2015  
-    - title: BSc — Computer Science
-      institution: University of North Carolina at Chapel Hill
-      year: 2004  
 - title: Academic Appointmentes
   type: time_table
   contents:
@@ -167,8 +164,6 @@
       items:
         - (DVS) Data Visualization Society
         - (IAS) Information Architecture Institute
-
-
 # - title: Open Source Projects
 #   type: time_table
 #   contents:
