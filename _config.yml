@@ -8,7 +8,7 @@ middle_name: Rae
 last_name: Fox
 email: amyraefoxphd@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  personal webpage for Dr. Amy Rae Fox
+  Dr. Amy Rae Fox is an applied cognitive scientist studying information visualization and diagrammatic reasoning. 
 footer_text: 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
