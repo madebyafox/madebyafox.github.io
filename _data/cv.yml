@@ -3,8 +3,6 @@
   contents:
     - name: Amy Rae Fox, PhD
       value: 
-    - name: Languages
-      value: English, French (B1)
 - title: Research Interests
   type: map
   contents:
@@ -53,7 +51,7 @@
     - year: 2000
       items: 
         - John Motley Morehead Scholarship, University of North Carolina at Chapel Hill 
-- title: Academic Appointmentes
+- title: Academic Appointments
   type: time_table
   contents:
     - title: Distinguished Postdoctoral Fellow, MIT
