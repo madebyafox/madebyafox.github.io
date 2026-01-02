@@ -5,6 +5,7 @@ title: publications
 description: PDFs are provided to ensure timely dissemination of academic work. They can be downloaded for noncommercial, information purposes only, and may not be reposted without permission from the respective copyright holders.
 nav: true
 nav_order: 3
+nav_rank: 3
 ---
 <!-- _pages/publications.md -->
 <div class="publications">

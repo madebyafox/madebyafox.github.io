@@ -5,8 +5,8 @@ title: teaching
 page-title: Teaching
 description: I teach a variety of courses in the Department of Cognitive Science that sit at the intersection of cognition in computing. Many of my courses are part of the Design & Interaction specialization of the Cognitive Science major, as well as the Design Minor. 
 nav: true
-nav_order: 3
-nav_rank: 3
+nav_order: 2
+nav_rank: 2
 ---
 
 {% assign groups = site.classes | sort: "group_rank" | map: "group" | uniq %}
