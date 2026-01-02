@@ -1138,3 +1138,24 @@ nav[data-toggle="toc"] {
 #toc-sidebar {
   z-index: 1;
 }
+
+// Team
+
+.team {
+  .card-body {
+    a:first-of-type {
+      text-decoration: none;
+    }
+  }
+}
+
+
+.badge-course {
+  background-color: var(--global-theme-color);
+  color: #fff;
+  font-weight: 500;
+}
+
+.badge-course a {
+  color: #fff;
+}

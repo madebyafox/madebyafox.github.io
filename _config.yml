@@ -126,7 +126,7 @@ permalink: #/blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
   enabled: true
@@ -171,6 +171,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  classes:
+    output: false
 
 announcements:
   enabled: true
