@@ -14,7 +14,7 @@ credits: 4
 
 # links
 links:
-  evaluation: "assets/evaluations/cogs128_fa25.pdf"          # or a relative path like "/assets/evals/cogs10-f25.pdf"
+  evaluation: "assets/evaluations/COGS128_FA25.pdf"          # or a relative path like "/assets/evals/cogs10-f25.pdf"
   syllabus: "https://docs.google.com/document/d/1uW3rC68Izr6yA8GI9r-6B94nH06DiptjfRn_V8i_OpU/edit?usp=sharing"
 
 # requirements/tags
