@@ -1159,3 +1159,11 @@ nav[data-toggle="toc"] {
 .badge-course a {
   color: #fff;
 }
+
+.badge-general {
+  background-color: var(--global-theme-color);
+  color: #fff;
+  font-weight: 500;
+  padding: 0.5rem;
+
+}
