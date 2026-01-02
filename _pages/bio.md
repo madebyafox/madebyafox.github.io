@@ -4,7 +4,7 @@ permalink: /bio/
 title: bio
 description: 
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 Dr. Amy Rae Fox is a tenure-track Assistant Professor of Teaching in the Department of Cognitive Science at UC San Diego, whose research centers on the role of cognition in information visualization and diagrammatic reasoning. 
