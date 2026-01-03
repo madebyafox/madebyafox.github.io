@@ -6,8 +6,8 @@ subtitle:  Cognitive Science · Research  | Education | Design
 
 profile:
   align: right
-  image: profile.png
-  image_circular: false # true crops the image to make it circular
+  image: profile_cartoon.png
+  image_circular: true # true crops the image to make it circular
   more_info: 
     <p>Assistant Professor of Teaching </p>
     <a href="https://cogsci.ucsd.edu/" target=_blank>Department of Cognitive Science</a>
